@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  ClassLibrary1.cpp
+c:\users\12072\source\repos\classlibrary1\classlibrary1\classlibrary1.h(31): warning C4091: “typedef ”: 没有声明变量时忽略“_DSTServer::sv_args”的左侧
+  正在生成代码...
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+    正在创建库 E:\Visual Studio项目\x64\Release\ClassLibrary1.lib 和对象 E:\Visual Studio项目\x64\Release\ClassLibrary1.exp
+  ClassLibrary1.vcxproj -> E:\Visual Studio项目\x64\Release\ClassLibrary1.dll

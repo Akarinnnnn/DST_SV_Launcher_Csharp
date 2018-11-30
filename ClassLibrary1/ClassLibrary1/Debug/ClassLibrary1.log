@@ -1,0 +1,5 @@
+﻿  ClassLibrary1.cpp
+c:\users\12072\source\repos\classlibrary1\classlibrary1\call_sv.h(76): warning C4552: ”<=“: 未使用表达式结果
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  AssemblyInfo.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  ClassLibrary1.vcxproj -> E:\Visual Studio项目\Debug\ClassLibrary1.dll
